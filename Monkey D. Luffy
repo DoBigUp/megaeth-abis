@@ -1,0 +1,21 @@
+"0x7b995a92D5dE258CAa00e7BFA458B3a85bDE7964": {
+  "name": "Monkey D. Luffy",
+  "abi": [/* import {
+  createThirdwebClient,
+  getContract,
+} from "thirdweb";
+import { defineChain } from "thirdweb/chains";
+
+// create the client with your clientId, or secretKey if in a server environment
+const client = createThirdwebClient({
+  clientId: "YOUR_CLIENT_ID",
+});
+
+// connect to your contract
+const contract = getContract({
+  client,
+  chain: defineChain(6342),
+  address: "0x7b995a92D5dE258CAa00e7BFA458B3a85bDE7964",
+});
+ */]
+}
